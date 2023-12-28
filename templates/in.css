@@ -1,0 +1,49 @@
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #1f1f1f; /* Dark background color */
+    color: #fff; /* Light text color */
+}
+
+header {
+    text-align: center;
+    background-color: #343a40; /* Dark header background color */
+    color: #fff;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+    background-color: #2c2c2c; /* Dark container background color */
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1); /* Add a subtle box shadow with light color */
+}
+
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Add more styles as needed for your specific design */
+
+/* Example of a button style */
+button {
+    background-color: #343a40;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #23272b; /* Darker color on hover */
+}
