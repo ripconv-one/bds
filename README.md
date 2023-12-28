@@ -1,5 +1,4 @@
-# bds
-Filtering 3D objects using HD5 dataset - Big Data Project
+# Query processing system in virtual 3D space - Big Data Project
 
 Using HDF5 dataset, the project focuses on enhancing the efficiency and effectiveness of querying within virtual 3D spaces. 
 
