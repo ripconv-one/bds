@@ -3,7 +3,7 @@ import numpy as np
 import h5py
 from flask import Flask, render_template, url_for
 
-dataset = h5py.File('C:/Users/PARTHIN/BDS/bdsvenv/3dshapes.h5', 'r')
+dataset = h5py.File('3dshapes.h5', 'r')
 print(dataset.keys())
 images = dataset['images']
 labels = dataset['labels']
